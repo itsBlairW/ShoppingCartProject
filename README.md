@@ -1,16 +1,16 @@
-# 安装所有依赖
+# install All Dependencies
 
 ```bash
 npm i
 ```
 
-# 启动 mock 接口服务
+# Run mock Interface Service
 
 ```bash
 npm run serve
 ```
 
-# 启动项目
+# Run the Project
 
 ```bash
 npm run start
